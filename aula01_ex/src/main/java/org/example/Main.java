@@ -2,6 +2,8 @@ package org.example;
 
 import org.example.ex01.Ex;
 
+import java.util.Arrays;
+
 public class Main {
   public static void main(String[] args) {
 
@@ -27,8 +29,8 @@ public class Main {
 
     String factorial = Ex.ex06(3, new int[]{1, 3, 3});
     System.out.println("Fatoriais da sequência: " + factorial);
-  }
 
+  }
 
 
 }

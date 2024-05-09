@@ -1,5 +1,8 @@
 package org.example.ex01;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class Ex {
 
   // complexidade de tempo: O(1)
